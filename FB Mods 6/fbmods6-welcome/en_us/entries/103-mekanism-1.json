@@ -1,0 +1,41 @@
+{
+    "name": "Mekanism Basics",
+    "icon": "mekanism:ingot_osmium",
+    "category": "patchouli:004-mods-mekanism",
+    "sortnum": 103,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Mekanism Basics",
+            "text": "Mekanism adds some new ores and a lot of other things. Let's talk a bit of mekanism. $(br)Let's start whith the basics. $(br)The new ores can be found as normal minecraft ores. You can use them to make some machines and generators."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Mekanism Basics 2",
+            "text": "Generators can be considered machines too but, i'll keep this as machines and generators to keep this simple. $(br)You can generate energy based on wind or sun while you do some other things. You may need a 'battery' to store yout energy."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Mekanism Basics 3",
+            "text": "You can store your energy on energy cubes to charge some tools and for later use. $(br2)You can make some cables to transport energy, item, fluids and gases. You can make some machines to make the best energy generation of Mekanism."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Mekanism Basics 4",
+            "text": "Mekanism adds some alloys and control circuits that you will need to make generators, machines and upgrades for machines. I'll show you some basic mekanism recipes."
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Mekanism Recipes",
+            "recipe": "mekanismgenerators:generator/heat",
+            "recipe2": "mekanism:metallurgic_infuser"
+        },
+        {
+            "type": "patchouli:link",
+            "title": "Mekanism Basics 5",
+            "text": "This are the basics of mekanism. You can learn more of mekanism in this book and with some more research on internet or on FB Mods Wiki",
+            "url": "https://filmabem.notion.site/FB-Mods-Wiki-18010225aa2b4b30ac6beacc6ad441a4",
+            "link_text": "FB Mods Wiki"
+        }
+    ]
+}

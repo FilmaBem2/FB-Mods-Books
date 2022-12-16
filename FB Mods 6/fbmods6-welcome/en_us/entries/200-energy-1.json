@@ -1,0 +1,31 @@
+{
+    "name": "Energy Generation",
+    "icon": "powah:battery_spirited",
+    "category": "patchouli:003-energy",
+    "sortnum": 200,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Energy",
+            "text": "You will need energy to power your machines and you may need a battery to store the energy you generate. $(br2) You have more then one way to generate energy. You can generate with generators from Immersive Engineering or Mekanism, You can use reactors from Powah or any other type of generator."
+        },
+        {
+            "type": "patchouli:relations",
+            "title": "Energy",
+            "text": "This are the main pages you may need to read to get some information about energy",
+            "entries": ["patchouli:103-mekanism-2", "patchouli:104-mekanism-3", ""]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Energy Units",
+            "text": "There are some energy units and both can be converted to each other because they are managed by forge. $(br)The main energy used on FB Mods Modpacks is the Forge Energy (FE), but some mods add some other energy types like, the Mekanism Energy (EU) ou the Joule (J)."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "EnergyCube",
+            "text": "This is the most uselfull (not better) 'battery' and it can charge other tools",
+            "item": "mekanism:basic_energy_cube",
+            "link_recipe": true
+        }
+    ]
+}

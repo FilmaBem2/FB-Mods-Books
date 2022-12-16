@@ -1,0 +1,29 @@
+{
+    "name": "Enchantments",
+    "icon": "minecraft:enchanted_book",
+    "category": "patchouli:001-basics",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Enchantments - General",
+            "text": "If you played FB Mods 5 you already know the maximum level of the enchatments if not i will explain. $(br)All minecraft enchatments can go to Level 50 (except Efficiency that goes to 77). FB Mods 6 also have new enchantments that i will explain latter."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Enchantments - Desc.",
+            "text": "I will not describe all the enchatments in this for many reasons, first the book can't handle a lot of readable text per page, second there are already a mod that adds a description for the enchatments."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Enchantments - Trades",
+            "text": "All of the new enchantments can be traded with villager and that increases the difficulty of getting the desired enchatment so i added easy villagers to help you get your enchatments. You can find on this book a page for Easy Vilagers and Easy Piglins."
+        },
+        {
+            "type": "patchouli:relations",
+            "title": "Enchantments - Related",
+            "text": "Go to this page to learn more.",
+            "entries": ["patchouli:100-easy-villagers-1"]
+        }
+    ]
+}

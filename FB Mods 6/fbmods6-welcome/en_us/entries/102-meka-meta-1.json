@@ -1,0 +1,18 @@
+{
+    "name": "Mekanism",
+    "icon": "mekanism:basic_control_circuit",
+    "category": "patchouli:002-mods",
+    "sortnum": 102,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Mekanism",
+            "text": "Mekanism is a really big mod so i need to split it in some parts and i'll link them here so you can find them all here."
+        },
+        {
+            "type": "patchouli:relations",
+            "title": "Mekanism",
+            "entries": ["patchouli:103-mekanism-1", "patchouli:104-mekanism-2", "patchouli:105-mekanism-3"]
+        }
+    ]
+}

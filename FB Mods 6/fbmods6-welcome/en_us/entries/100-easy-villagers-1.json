@@ -1,0 +1,51 @@
+{
+    "name": "Easy Villagers",
+    "icon": "easy_villagers:trader",
+    "category": "patchouli:002-mods",
+    "sortnum": 100,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Easy Villagers - Basics",
+            "text": "Easy villager adds new items that you can use to farm and to get enchatment. $(br2)It also adds an icon on villagers interface to change villager trades.$(br2) Here you can see every recipe for Easy Villagers."
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Easy Villagers - Recipes",
+            "recipe": "easy_villagers:trader",
+            "recipe2": "easy_villagers:auto_trader"
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Easy Villagers - Recipes",
+            "recipe": "easy_villagers:farmer",
+            "recipe2": "easy_villagers:breeder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Easy Villagers - Recipes",
+            "recipe": "easy_villagers:converter",
+            "recipe2": "easy_villagers:iron_farm"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Easy Villagers - Recipes",
+            "text": "This is the last recipe for Easy Villagers itself, but there is an addon for easy villagers so keep reading."
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Easy Villagers - Recipes",
+            "recipe": "easy_villagers:incubator"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Easy Piglins",
+            "text": "Easy Piglins is an addon to Easy Villagers that allows you to apply the same trading mechanics of Easy Villagers to piglins. Instead of using a trader you need to use a Barterer"
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Easy Piglins - Recipes",
+            "recipe": "easy_piglins:barterer"
+        }
+    ]
+}

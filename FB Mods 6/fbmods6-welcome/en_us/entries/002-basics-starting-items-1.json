@@ -1,0 +1,28 @@
+{
+    "name": "Starting Items",
+    "icon": "minecraft:crafting_table",
+    "category": "patchouli:001-basics",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Starting Items",
+            "text": "As soon as you enter this world you may notice you already have some starting items that are equal to every player. $(br2)One of the starting items is this book you are reading right now and the other are some templates form a mod called 'prefab' that includes some builds pre-made for you and some extra items. You will need this because the world in FB Mods 6 is dangerous."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Prefab",
+            "text": "I added a house and a warehouse to your inventory so you can mine and store your initial resources but be aware i will not help forever."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "First Food",
+            "text": "I have also added some food to your inventory so you don't need to worry about food in your initial minutes of the game. But you will need food to keep going so... Good Luck."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Pro tip",
+            "text": "Keep this book on your storage because you will need it later too."
+        }
+    ]
+}
