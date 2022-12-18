@@ -1,0 +1,39 @@
+{
+    "name": "Welcome to FB Mods 6",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:001-basics",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "title": "Welcome to FB Mods 6",
+            "images": ["fbmods6:textures/welcome/fbm6.png"],
+            "text": "We will give you the basic information you will need."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "The Basics - Part 1 - UI",
+            "text": "I know this book may be useless at the begining of your journey since you already know how to play minecraft, but you may need some help later, even for some basic things. $(br)Let's start with the basics intruducing you to the first things you may or may not noticed. When you entered this world you may saw a minimap on your top-right cornor, this is journeymap a feature rich minimap that allows you to do some things suchs as letting you have the minimap on your Web Browser."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "The Basics - Part 2 - UI",
+            "text": "You can use this to put the map on a secondary monitor. $(br)Near the minimap you can see your coordinates and biome you ara at the moment. $(br2)When you open your inventory on your top-left cornor you have some icons. Let me explain you what this are. First you will always have your team icon where you can create and manage a team(it's highly encorage that you make a team even if you will play solo), right after that icon you have the quest icon."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "The Basics - Part 3 - UI",
+            "text": "The quest icon shows you the quests you have. I Know doesn't seem much but as you complete quests more quests will appear. You have also a trash icon and i think that's obvious what it does so be careful to not trash your items. Last but not least you have Claimed Chunks where you can claim chunks so no one can mess with your construcions."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "The Basics - Part 4 - UI",
+            "text": "When you open your inventory you have on your bottom-left cornor a button for some kind of favorites. I will explain what it is as soon as i explain you the interface. On your right side you may already saw a 'list' of items, thats all of the items in game and if you click on anyone the game will show you it recipe. If you click on an item to see its recipe after right-clicking a crafting table near the recipe it will have a 'plus' icon that automatically adds the recipe in the crafting table for you if you have the items"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "The Basics - Part 5 - UI",
+            "text": "Remember the favorites button on your bottom left? That button will toggle a list of your favorite recipes from the right bar and put the item on the left part of the screen. The name of that mod is 'Just Enough Items' or 'JEI' by the way."
+        }
+    ]
+}

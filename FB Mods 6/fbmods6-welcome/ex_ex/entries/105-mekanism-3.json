@@ -1,0 +1,19 @@
+{
+    "name": "Energy Transport",
+    "icon": "mekanism:basic_universal_cable",
+    "category": "patchouli:004-mods-mekanism",
+    "sortnum": 105,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Energy Transport",
+            "text": "To transport energy you may need some Energy Cables, or you can do it without cables but i'll cover that on another page of this book. $(br2) You need to cratf a configurator to configure the cables. With the configurator in hand, just croutch and right click on the tip of the cable, it's very intuitive."
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Energy Transport",
+            "text": "Note: You can upgrade the cables by right-clicking with the specific alloy on the cable.",
+            "recipe": "mekanism:transmitter/universal_cable/basic"
+        }
+    ]
+}

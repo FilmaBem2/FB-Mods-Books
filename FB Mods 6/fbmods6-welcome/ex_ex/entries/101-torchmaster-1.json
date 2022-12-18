@@ -1,0 +1,19 @@
+{
+    "name": "Torchmaster",
+    "icon": "torchmaster:megatorch",
+    "category": "patchouli:002-mods",
+    "sortnum": 101,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Torchmaster",
+            "text": "This is a very simple mod, it adds some usefull items like two types of torchs that wil be really helpful. $(br2)First Mega Torch $(br)This Torch prevents mobs from spwaning. $(br2)Second Feral Flare Lantern $(br)This 'torch' Places invisible lights with time in a short range, it's usefull to keep a good looking building."
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Torchmaster - Recipes",
+            "recipe": "torchmaster:megatorch",
+            "recipe2": "torchmaster:feral_flare_lantern"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Mobs",
+    "icon": "minecraft:wooden_sword",
+    "category": "patchouli:001-basics",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Mobs - General",
+            "text": "FB Mods 6 have all the basic game mobs allowed to spawn and all the mobs from other mods too, the big diffrence is the loot of the mobs. $(br2)In the base game and/or with the mods we added the drops are exactly as you expect, but in FB Mods 6 some mobs have adicional drops with specific chances. Some of that drops are affected by looting and some don't. $(br2)Since FB Mods 6 have increased enchantment level you can get Looting 50 but the base game and the mods are not expecting this so we added support for looting 50 for some mob drops."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Mobs - Loot",
+            "text": "All the basic game loot from the mobs are affected by looting except the ones we removed. $(br)All the drops from Mystical Agriculture are affected by looting and you will need a lot of them in your journey. $(br2)Ghasts have a really smal chance to drop Lithium and that chance will not increase with looting so you will need to kill a lot of ghasts to earn Lithium if you don't want to make it with the Mekanism recipe."
+        },
+        {
+            "type": "patchouli:entity",
+            "title": "Ghast",
+            "entity": "minecraft:ghast",
+            "scale": 0.5,
+            "text": "Ghasts don't usually have a big health but in FB Mods 6 it may vary."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Lithium",
+            "item": "mekanism:dust_lithium",
+            "text": "Lithium can be used to make batteries. I like that type of batteries because they have a lot of storage capacity."
+        },
+        {
+            "type": "patchouli:entity",
+            "title": "Chickens",
+            "entity": "minecraft:chicken",
+            "scale": 1,
+            "text": "You can do a lot with chickens when you found some"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Chickens",
+            "text": "You will need to craft a chicken catcher to catch some chickens and maybe craft another chickens or  maybe farm some eggs in a garden cloche."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Energy Generation",
+    "icon": "mekanism:upgrade_energy",
+    "category": "patchouli:004-mods-mekanism",
+    "sortnum": 104,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Heat",
+            "text": "To generate energy with mekanism first you need to make an energy generation. You can make an Heat Generator with the recipe on the next page. You need a heat source like a tourch or lava under the generator."
+        },
+        {
+            "type": "patchouli:crafting",
+            "text": "Note: You may need a cable to transport energy to another machines and/or an Energy Cube.",
+            "recipe": "mekanismgenerators:generator/heat"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Solar",
+            "text": "After you get Metallurgic Infuser to make alloys you can make a better generator. You can go for solar energy or wind energy, first i'll teach you about solar energy then wind. $(br2)This generator you can place on anywhere if there is nothing between the sky and the generator. This is also valid for the advanced one."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "mekanismgenerators:generator/solar",
+            "recipe2": "mekanismgenerators:generator/advanced_solar"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Wind",
+            "text": "Wind Generation is the best energy generator you can do in early game. $(br2)Wind Generator is not that difficult to make but it can give you some work because you need some Energy Tablets and they don't stack so if you want to make a lot of Wind Generators you may need some storage near you."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "mekanism:energy_tablet",
+            "recipe2": "mekanismgenerators:generator/wind"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Gas Burning",
+            "text": "This Page is W.I.P."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Gas Burning",
+            "text": "This Page is W.I.P."
+        }
+    ]
+}
